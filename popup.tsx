@@ -8,6 +8,7 @@ function IndexPopup() {
       style={{
         padding: 16
       }}>
+      <h3>EDITED!!!</h3>
       <h2>
         Welcome to your{" "}
         <a href="https://www.plasmo.com" target="_blank">
